@@ -1,6 +1,6 @@
 ## Interface: 60000
 ## Title: My Customizations
 ## Notes: Just a collection of UI tweaks
-## Author: Mcfli
+## Author: Tyler Johnston
 My_Customizations.lua
 My_Customizations.xml
